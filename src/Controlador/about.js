@@ -70,6 +70,3 @@ export default () => {
 
   return divElement;
 };
-function sumar() {
-  
-}
